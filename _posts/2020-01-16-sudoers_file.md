@@ -1,4 +1,8 @@
-# When you screw up your /etc/sudoers file:
+---
+layout: post
+title: When you screw up your /etc/sudoers file
+---
+
 1. Open two ssh sessions to the target server.
 2. In the first session, get the PID of bash by running:
    echo $$
