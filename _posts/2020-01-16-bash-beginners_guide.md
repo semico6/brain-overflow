@@ -1,3 +1,8 @@
+---
+layout: post
+title: Understanding Bash
+---
+
 # Understanding Bash: Elements of Programming
 by Vladimir Likic on September 28, 2018
 
