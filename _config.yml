@@ -3,9 +3,8 @@ title: Seth Comire's Brain Overflow Project
 author: Seth Comire
 email: nemophilist345@proton.com
 description: I'm getting too old to remember everything. This is my solution.
-twitter_username: semico6
 github_username:  semico6
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hacker
+theme: minima
